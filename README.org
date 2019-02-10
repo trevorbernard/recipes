@@ -1,121 +1,17 @@
 #+TITLE: My Recipes and Food Experiments
 #+AUTHOR: Trevor Bernard
 
-* Stout Braised Oxtail
+I love to cook and this is the expedition log of my culinary journey.
 
-** Ingredients
+* Appetizers
 
-- 2 tbps of Olive Oil
-- 3-5lbs of Oxtail
-- 2 medium carrots
-- 3 ribs of celery
-- 1 medium/large onion
-- 2 medium leeks
-- 4-5 cloves of garlic
-- 500ml of Stout (Murphy's or Guiness works well)
-- 1/2cup of flour (optional)
-- 2 tbsp of tomato paste
-- 1 can of whole or diced tomatoes
-- 2 sprigs of thyme
-- 2 sprigs of rosemary
-- 2-3 bay leaves
-- salt
-- pepper
-- 1L of Beef Stock
+- [[file:recipes/pub-style-wings.org][Pub Style Chicken Wings]]
 
-** Instructions
 
-Prepare your mise en place. Cut a rough mirepoix with your leeks,
-carrots, celery, onions, and put it on the side so you can cook it in
-the juices after browning your meat. Roughly dice your cloves of
-garlic and put it on the side with your mirepoix.
+* Braised
 
-Pat dry the Oxtail and lightly dust the meat with flour tapping it to
-remove the excess. Heat oil to it's smoking point in a large 6-7 qt
-dutch oven. You want to brown your Oxtail in small batches so you can
-get a good brown sear on the meat. If now, you'll end up boiling and
-steaming the meat.
+- [[file:recipes/stout-braised-oxtail.org][Stout Braised Oxtail]]
 
-Put your browned meat on the side and start cooking your mirepoix in
-the beef drippings. If you notice it's a little dry, feel free to add
-more oil or butter. You want to carmelize the sugars in the
-mirepoix. You'll see some fond developing on the bottom of the dutch
-oven -- you want this. Once you start seeing some fond, create a well
-in the and add your tomato paste. This adds some acidity and zinginess
-to the dish. Cook down the tomato for 2 minutes then add your stout to
-begin deglazing the the dish. Return the meat to the dutch oven adding
-your canned tomatoes and adding beef stock until the meat is barely
-covered. Create a bouquet garnis with your thyme, rosemary and bay
-leaves and add it to the pot. Place the pot into a 350f pre-heated
-oven. Season the braising liquid but be careful not to over season
-it. The liquid will reduce and concentrate the flavours of the
-braise. It will take 3-4 hrs to braise depending on how much liquid
-and meat you have. I tend to check it once ever hour after 2 hrs.
+* Soups
 
-The Oxtail contains a lot of collagen and after braising you'll have
-this unctuous, rich and flavourful beef stew. Serve with pasta, mashed
-potatoes, or add water with a side of toasted bread.
-
-* Pub Style Chicken Wings
-
-** Ingredients
-
-- 1 lbs of chicken wings
-- 2 tbps of flour
-- Salt
-- Pepper
-- Dutch oven or deep fryer
-- Neutral frying oil
-- Franks redhot sauce
-
-** Instructions
-
-Bring oil to temperature: 350-375 is the sweet spot. Season flour with
-salt and pepper. Feel free to add cayenne pepper or paprika for a more
-complex flavour. Dust wings and tapping to remove excess flour. Put
-wings into the heated oil and cook for 8-10 minutes. Once golden
-brown, remove and place on a wire baking rack or on a paper town to
-get rid of the excess oil.
-
-If Franks it too hot for you, in a pan add 1 part franks and 3 parts
-butter for a mild hot sauce. Medium is equal parts butter and hot
-sauce, etc.
-
-For a true pub experience, serve with a pint, nacho chips, celery,
-carrots and your choice of blue cheese or ranch.
-
-Happy winging.
-* Cream of Fiddlehead Soup
-
-** Ingredients
-
-- 3 cups of fiddleheads
-- 1 cup of carrots
-- 1 cup of onions
-- 1 cup of celery
-- 1 cups of chicken stock
-- 2 tbps of butter
-- olive oil
-- salt
-- pepper
-- full fat coconut
-
-** Instuctions
-
-In a heavied bottom pot, add butter/oil combination and begin sauteing
-mirepoix until the the onions become translucent. Add chicken stock
-and fiddleheads. Season lightly with salt and pepper. Cook on simmer
-for 1.5 hrs. With an immersion blender, blitz the coup to your desired
-thickness. Add 1 cup of full fat coconut to make it thick and creamy.
-
-Save a couple cooked fiddleheads for garnish. Place 2 or 3 on top of
-your soup and lightly drizzle a good olive oil on the soup. Freshly
-grind ground pepper and serve.
-
-** Notes
-
-- Leeks and garlic would be a great addition to the mirepoix.
-- You can swap out coconut milk with 1 cup of heavy cream.
-- Replace chicken stock with vegatable stock to make it vegaterian.
-- Veggy stock and olive oil only to make it vegan.
-
+- [[file:recipes/cream-of-fiddlehead.org][Cream of Fiddlehead Soup]]
