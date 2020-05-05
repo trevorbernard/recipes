@@ -7,11 +7,10 @@ I love to cook and this is the expedition log of my culinary journey.
 
 - [[file:recipes/pub-style-wings.org][Pub Style Chicken Wings]]
 
-
 * Braised
 
 - [[file:recipes/stout-braised-oxtail.org][Stout Braised Oxtail]]
 
-* Soups
+* Soups and Stews
 
 - [[file:recipes/cream-of-fiddlehead.org][Cream of Fiddlehead Soup]]
